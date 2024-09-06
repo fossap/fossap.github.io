@@ -1,5 +1,5 @@
 hello world
 
 <center>
-  ![](./wassaaap.jpg)
-</center>
+  <img src="./wassaaap.jpg"></img>
+</center
