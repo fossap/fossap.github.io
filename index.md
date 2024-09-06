@@ -1,5 +1,3 @@
 hello world
 
-<center>
-  <img src="./wassaaap.jpg"></img>
-</center
+<center><img src="./wassaaap.jpg">
